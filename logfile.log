@@ -1,0 +1,158 @@
+{"level":"error","message":"error","timestamp":"2021-04-08T18:30:34.414Z"}
+{"message":"error","stack":"Error: error\n    at C:\\Users\\colin\\Desktop\\node-course\\vidly\\routes\\genres.js:11:11\n    at newFn (C:\\Users\\colin\\Desktop\\node-course\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\colin\\Desktop\\node-course\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\colin\\Desktop\\node-course\\vidly\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\colin\\Desktop\\node-course\\vidly\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at newFn (C:\\Users\\colin\\Desktop\\node-course\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\colin\\Desktop\\node-course\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\colin\\Desktop\\node-course\\vidly\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (C:\\Users\\colin\\Desktop\\node-course\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\colin\\Desktop\\node-course\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\colin\\Desktop\\node-course\\vidly\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (C:\\Users\\colin\\Desktop\\node-course\\vidly\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at newFn (C:\\Users\\colin\\Desktop\\node-course\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\colin\\Desktop\\node-course\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\colin\\Desktop\\node-course\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\colin\\Desktop\\node-course\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (C:\\Users\\colin\\Desktop\\node-course\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\colin\\Desktop\\node-course\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at jsonParser (C:\\Users\\colin\\Desktop\\node-course\\vidly\\node_modules\\body-parser\\lib\\types\\json.js:110:7)\n    at newFn (C:\\Users\\colin\\Desktop\\node-course\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\colin\\Desktop\\node-course\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\colin\\Desktop\\node-course\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)","level":"error","timestamp":"2021-04-08T18:32:52.718Z"}
+{"message":"error","stack":"Error: error\n    at C:\\Users\\colin\\Desktop\\node-course\\vidly\\routes\\genres.js:11:11\n    at newFn (C:\\Users\\colin\\Desktop\\node-course\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\colin\\Desktop\\node-course\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\colin\\Desktop\\node-course\\vidly\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\colin\\Desktop\\node-course\\vidly\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at newFn (C:\\Users\\colin\\Desktop\\node-course\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\colin\\Desktop\\node-course\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\colin\\Desktop\\node-course\\vidly\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (C:\\Users\\colin\\Desktop\\node-course\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\colin\\Desktop\\node-course\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\colin\\Desktop\\node-course\\vidly\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (C:\\Users\\colin\\Desktop\\node-course\\vidly\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at newFn (C:\\Users\\colin\\Desktop\\node-course\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\colin\\Desktop\\node-course\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\colin\\Desktop\\node-course\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\colin\\Desktop\\node-course\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (C:\\Users\\colin\\Desktop\\node-course\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\colin\\Desktop\\node-course\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at jsonParser (C:\\Users\\colin\\Desktop\\node-course\\vidly\\node_modules\\body-parser\\lib\\types\\json.js:110:7)\n    at newFn (C:\\Users\\colin\\Desktop\\node-course\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\colin\\Desktop\\node-course\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\colin\\Desktop\\node-course\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)","level":"error","timestamp":"2021-04-08T18:40:08.971Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2021-04-08T19:10:34.378Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2021-04-08T19:12:10.841Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2021-04-08T19:15:23.960Z"}
+{"level":"info","message":"Connected to mongodb","timestamp":"2021-04-08T19:19:39.228Z"}
+{"level":"info","message":"Listening on poirt 3000","timestamp":"2021-04-08T21:06:58.159Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests","timestamp":"2021-04-08T21:06:58.186Z"}
+{"level":"info","message":"Listening on poirt 3000","timestamp":"2021-04-08T21:18:26.786Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests","timestamp":"2021-04-08T21:18:26.820Z"}
+{"level":"info","message":"Listening on poirt 3000","timestamp":"2021-04-08T21:22:34.371Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests","timestamp":"2021-04-08T21:22:34.396Z"}
+{"level":"info","message":"Listening on poirt 3000","timestamp":"2021-04-08T21:25:35.656Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests","timestamp":"2021-04-08T21:25:35.682Z"}
+{"level":"info","message":"Listening on poirt 3000","timestamp":"2021-04-08T21:27:15.206Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests","timestamp":"2021-04-08T21:27:15.236Z"}
+{"level":"info","message":"Listening on poirt 3000","timestamp":"2021-04-08T21:29:13.903Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests","timestamp":"2021-04-08T21:29:13.929Z"}
+{"level":"info","message":"Listening on poirt 3000","timestamp":"2021-04-08T21:30:31.810Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests","timestamp":"2021-04-08T21:30:31.842Z"}
+{"level":"info","message":"Listening on poirt 3000","timestamp":"2021-04-08T21:31:35.961Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests","timestamp":"2021-04-08T21:31:35.986Z"}
+{"level":"info","message":"Listening on poirt 3000","timestamp":"2021-04-08T21:44:27.194Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests","timestamp":"2021-04-08T21:44:27.216Z"}
+{"level":"info","message":"Listening on poirt 3000","timestamp":"2021-04-08T21:44:33.165Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests","timestamp":"2021-04-08T21:44:33.203Z"}
+{"level":"info","message":"Listening on poirt 3000","timestamp":"2021-04-08T21:47:44.470Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests","timestamp":"2021-04-08T21:47:44.498Z"}
+{"message":"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"","stack":"CastError: Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"\n    at model.Query.exec (C:\\Users\\colin\\Desktop\\node-course\\vidly\\node_modules\\mongoose\\lib\\query.js:4408:21)\n    at model.Query.Object.<anonymous>.Query.then (C:\\Users\\colin\\Desktop\\node-course\\vidly\\node_modules\\mongoose\\lib\\query.js:4502:15)\n    at processTicksAndRejections (node:internal/process/task_queues:94:5)","stringValue":"\"1\"","kind":"ObjectId","value":"1","path":"_id","reason":{},"level":"error","timestamp":"2021-04-08T21:47:44.606Z"}
+{"level":"info","message":"Listening on poirt 3000","timestamp":"2021-04-08T21:50:34.345Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests","timestamp":"2021-04-08T21:50:34.372Z"}
+{"level":"info","message":"Listening on poirt 3000","timestamp":"2021-04-09T02:38:22.690Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests","timestamp":"2021-04-09T02:38:22.734Z"}
+{"level":"info","message":"Listening on poirt 3000","timestamp":"2021-04-09T02:41:21.078Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests","timestamp":"2021-04-09T02:41:21.108Z"}
+{"level":"info","message":"Listening on poirt 3000","timestamp":"2021-04-09T02:42:43.388Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests","timestamp":"2021-04-09T02:42:43.411Z"}
+{"level":"info","message":"Listening on poirt 3000","timestamp":"2021-04-09T02:56:38.813Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests","timestamp":"2021-04-09T02:56:38.838Z"}
+{"level":"info","message":"Listening on poirt 3000","timestamp":"2021-04-09T02:56:44.968Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests","timestamp":"2021-04-09T02:56:44.999Z"}
+{"level":"info","message":"Listening on poirt 3000","timestamp":"2021-04-09T02:57:28.780Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests","timestamp":"2021-04-09T02:57:28.807Z"}
+{"level":"info","message":"Listening on poirt 3000","timestamp":"2021-04-09T03:02:51.206Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests","timestamp":"2021-04-09T03:02:51.234Z"}
+{"level":"info","message":"Listening on poirt 3000","timestamp":"2021-04-09T03:03:10.726Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests","timestamp":"2021-04-09T03:03:10.749Z"}
+{"level":"info","message":"Listening on poirt 3000","timestamp":"2021-04-09T03:04:01.362Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests","timestamp":"2021-04-09T03:04:01.385Z"}
+{"level":"info","message":"Listening on poirt 3000","timestamp":"2021-04-09T03:07:49.350Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests","timestamp":"2021-04-09T03:07:49.375Z"}
+{"level":"info","message":"Listening on poirt 3000","timestamp":"2021-04-09T03:09:26.647Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests","timestamp":"2021-04-09T03:09:26.671Z"}
+{"level":"info","message":"Listening on poirt 3000","timestamp":"2021-04-09T03:11:38.606Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests","timestamp":"2021-04-09T03:11:38.633Z"}
+{"level":"info","message":"Listening on poirt 3000","timestamp":"2021-04-09T03:12:10.053Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests","timestamp":"2021-04-09T03:12:10.077Z"}
+{"level":"info","message":"Listening on poirt 3000","timestamp":"2021-04-09T03:14:59.334Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests","timestamp":"2021-04-09T03:14:59.362Z"}
+{"level":"info","message":"Listening on poirt 3000","timestamp":"2021-04-09T03:16:59.892Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests","timestamp":"2021-04-09T03:16:59.914Z"}
+{"level":"info","message":"Listening on poirt 3000","timestamp":"2021-04-09T03:23:02.201Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests","timestamp":"2021-04-09T03:23:02.231Z"}
+{"level":"info","message":"Listening on poirt 3000","timestamp":"2021-04-09T03:28:38.770Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests","timestamp":"2021-04-09T03:28:38.797Z"}
+{"level":"info","message":"Listening on poirt 3000","timestamp":"2021-04-09T03:29:25.473Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests","timestamp":"2021-04-09T03:29:25.495Z"}
+{"level":"info","message":"Listening on poirt 3000","timestamp":"2021-04-09T03:31:20.916Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests","timestamp":"2021-04-09T03:31:20.938Z"}
+{"level":"info","message":"Listening on poirt 3000","timestamp":"2021-04-09T03:31:34.224Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests","timestamp":"2021-04-09T03:31:34.247Z"}
+{"level":"info","message":"Listening on poirt 3000","timestamp":"2021-04-09T03:32:12.916Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests","timestamp":"2021-04-09T03:32:12.938Z"}
+{"level":"info","message":"Listening on poirt 3000","timestamp":"2021-04-09T03:35:31.047Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests","timestamp":"2021-04-09T03:35:31.071Z"}
+{"level":"info","message":"Listening on poirt 3000","timestamp":"2021-04-09T03:43:40.954Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests","timestamp":"2021-04-09T03:43:40.976Z"}
+{"level":"info","message":"Listening on poirt 3000","timestamp":"2021-04-09T03:44:09.088Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests","timestamp":"2021-04-09T03:44:09.112Z"}
+{"level":"info","message":"Listening on poirt 3000","timestamp":"2021-04-09T03:44:09.446Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests","timestamp":"2021-04-09T03:44:09.502Z"}
+{"level":"info","message":"Listening on poirt 3000","timestamp":"2021-04-09T03:44:31.238Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests","timestamp":"2021-04-09T03:44:31.273Z"}
+{"level":"info","message":"Listening on poirt 3000","timestamp":"2021-04-09T03:44:31.545Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests","timestamp":"2021-04-09T03:44:31.597Z"}
+{"level":"info","message":"Listening on poirt 3000","timestamp":"2021-04-09T03:45:00.442Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests","timestamp":"2021-04-09T03:45:00.470Z"}
+{"level":"info","message":"Listening on poirt 3000","timestamp":"2021-04-09T03:45:00.828Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests","timestamp":"2021-04-09T03:45:00.881Z"}
+{"level":"info","message":"Listening on poirt 3000","timestamp":"2021-04-09T03:47:08.091Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests","timestamp":"2021-04-09T03:47:08.130Z"}
+{"level":"info","message":"Listening on poirt 3000","timestamp":"2021-04-09T03:47:08.527Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests","timestamp":"2021-04-09T03:47:08.601Z"}
+{"level":"info","message":"Listening on poirt 3000","timestamp":"2021-04-09T03:47:27.579Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests","timestamp":"2021-04-09T03:47:27.609Z"}
+{"level":"info","message":"Listening on poirt 3000","timestamp":"2021-04-09T03:47:28.017Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests","timestamp":"2021-04-09T03:47:28.085Z"}
+{"level":"info","message":"Listening on poirt 3000","timestamp":"2021-04-09T03:48:27.793Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests","timestamp":"2021-04-09T03:48:27.822Z"}
+{"level":"info","message":"Listening on poirt 3000","timestamp":"2021-04-09T03:48:28.162Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests","timestamp":"2021-04-09T03:48:28.213Z"}
+{"level":"info","message":"Listening on poirt 3000","timestamp":"2021-04-09T03:49:25.747Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests","timestamp":"2021-04-09T03:49:25.795Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests","timestamp":"2021-04-09T03:49:25.816Z"}
+{"level":"info","message":"Listening on poirt 3000","timestamp":"2021-04-09T03:49:25.821Z"}
+{"level":"info","message":"Listening on poirt 3000","timestamp":"2021-04-09T03:52:17.241Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests","timestamp":"2021-04-09T03:52:17.266Z"}
+{"level":"info","message":"Listening on poirt 3000","timestamp":"2021-04-09T03:52:17.680Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests","timestamp":"2021-04-09T03:52:17.760Z"}
+{"level":"info","message":"Listening on poirt 3000","timestamp":"2021-04-09T03:54:23.051Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests","timestamp":"2021-04-09T03:54:23.112Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests","timestamp":"2021-04-09T03:54:23.174Z"}
+{"level":"info","message":"Listening on poirt 3000","timestamp":"2021-04-09T03:54:23.210Z"}
+{"level":"info","message":"Listening on poirt 3000","timestamp":"2021-04-09T04:00:19.047Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests","timestamp":"2021-04-09T04:00:19.097Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests","timestamp":"2021-04-09T04:00:19.108Z"}
+{"level":"info","message":"Listening on poirt 3000","timestamp":"2021-04-09T04:00:19.122Z"}
+{"level":"info","message":"Listening on poirt 3000","timestamp":"2021-04-09T04:00:25.656Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests","timestamp":"2021-04-09T04:00:25.709Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests","timestamp":"2021-04-09T04:00:25.768Z"}
+{"level":"info","message":"Listening on poirt 3000","timestamp":"2021-04-09T04:00:25.796Z"}
+{"level":"info","message":"Listening on poirt 3000","timestamp":"2021-04-09T04:01:11.707Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests","timestamp":"2021-04-09T04:01:11.760Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests","timestamp":"2021-04-09T04:01:11.772Z"}
+{"level":"info","message":"Listening on poirt 3000","timestamp":"2021-04-09T04:01:11.797Z"}
+{"level":"info","message":"Listening on poirt 3000","timestamp":"2021-04-09T04:03:44.357Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests","timestamp":"2021-04-09T04:03:44.382Z"}
+{"level":"info","message":"Listening on poirt 3000","timestamp":"2021-04-09T04:03:44.388Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests","timestamp":"2021-04-09T04:03:44.465Z"}
+{"level":"info","message":"Listening on poirt 3000","timestamp":"2021-04-09T04:03:52.017Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests","timestamp":"2021-04-09T04:03:52.081Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests","timestamp":"2021-04-09T04:03:52.118Z"}
+{"level":"info","message":"Listening on poirt 3000","timestamp":"2021-04-09T04:03:52.144Z"}
+{"level":"info","message":"Listening on poirt 3000","timestamp":"2021-04-09T04:31:59.018Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests","timestamp":"2021-04-09T04:31:59.097Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests","timestamp":"2021-04-09T04:31:59.120Z"}
+{"level":"info","message":"Listening on poirt 3000","timestamp":"2021-04-09T04:31:59.157Z"}
+{"level":"info","message":"Listening on poirt 3000","timestamp":"2021-04-09T04:32:44.422Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests","timestamp":"2021-04-09T04:32:44.448Z"}
+{"level":"info","message":"Listening on poirt 3000","timestamp":"2021-04-09T04:32:44.513Z"}
+{"level":"info","message":"Listening on poirt 3000","timestamp":"2021-04-09T04:32:44.525Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests","timestamp":"2021-04-09T04:32:44.576Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests","timestamp":"2021-04-09T04:32:44.611Z"}
+{"level":"info","message":"Listening on poirt 3000","timestamp":"2021-04-09T04:39:59.735Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests","timestamp":"2021-04-09T04:39:59.772Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests","timestamp":"2021-04-09T04:39:59.810Z"}
+{"level":"info","message":"Listening on poirt 3000","timestamp":"2021-04-09T04:39:59.863Z"}
+{"level":"info","message":"Listening on poirt 3000","timestamp":"2021-04-09T04:39:59.884Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests","timestamp":"2021-04-09T04:39:59.957Z"}
+{"level":"info","message":"Listening on poirt 3000","timestamp":"2021-04-09T04:40:47.868Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests","timestamp":"2021-04-09T04:40:47.900Z"}
+{"level":"info","message":"Listening on poirt 3000","timestamp":"2021-04-09T04:40:47.891Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests","timestamp":"2021-04-09T04:40:47.982Z"}
+{"level":"info","message":"Listening on poirt 3000","timestamp":"2021-04-09T04:40:48.310Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests","timestamp":"2021-04-09T04:40:48.343Z"}
+{"level":"info","message":"Listening on poirt 3000","timestamp":"2021-04-09T05:32:02.741Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly","timestamp":"2021-04-09T05:32:02.764Z"}
