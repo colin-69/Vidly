@@ -14,7 +14,6 @@ const rental = new Schema({
                 },
             isGold: {
                 type: Boolean,
-                default: false
                 },
             phone: {
                 type: String,
