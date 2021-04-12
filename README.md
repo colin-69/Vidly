@@ -51,6 +51,12 @@ Displayed is the users and currently there is only one. For the password there i
 
 Here is the output in Postman when a get request is sent the the genres API.
 
+![V10](https://user-images.githubusercontent.com/61571857/114428359-b5e98a80-9b81-11eb-8431-883a1676a6cd.JPG)
+
+Here is the output of renting a movie with a valid customerId and movieId.
+
+
+**Curently there is a bug in the returns API I am working on fixing it but at this time is does not work. 
 
 
 
