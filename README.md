@@ -31,4 +31,27 @@ This is a middleware function that checks the user to make sure they are authori
 
 Another middleware function that checks if the user is an admin. 
 
+##  Database
+
+![V6](https://user-images.githubusercontent.com/61571857/114426923-2abbc500-9b80-11eb-9afd-8799f3890208.JPG)
+
+Here is what the database looks in the genres section. 
+
+![V7](https://user-images.githubusercontent.com/61571857/114427038-4d4dde00-9b80-11eb-8382-7d72dbfb0401.JPG)
+
+Here is the movies section and you can see each movie has its own objectId and the genre is an object that is mapped using the genres objectId.
+
+![V8](https://user-images.githubusercontent.com/61571857/114427291-90a84c80-9b80-11eb-98e8-3fdd2f5c75f9.JPG)
+
+Displayed is the users and currently there is only one. For the password there is hash encryption to hide the password. 
+
+## Postman 
+
+![V9](https://user-images.githubusercontent.com/61571857/114427672-ef6dc600-9b80-11eb-97af-eb1df5dfe3c6.JPG)
+
+Here is the output in Postman when a get request is sent the the genres API.
+
+
+
+
 
